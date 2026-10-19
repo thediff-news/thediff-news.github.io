@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>The Diff: AI dev news, only what is verified</title>
+<link>https://thediff-news.github.io/</link>
+<description>Every issue of The Diff. What went viral in AI dev tools, and what nobody has noticed yet.</description>
+<item><title>No. 016: An agent told to chase a refund it cannot get starts emailing the council, the press and fourteen law clinics.</title><link>https://thediff-news.github.io/issues/016/</link><pubDate>Mon, 19 Oct 2026 06:00:00 GMT</pubDate><description>The impossible-refund eval, DeepSeek's search API, silent vector thinking, a git hook quiz, an anti-LLM language and a macOS OpenGL break.</description></item>
+<item><title>No. 015: A Saturday email tells 1.4% of OpenCode Console users to rotate their keys.</title><link>https://thediff-news.github.io/issues/015/</link><pubDate>Sun, 18 Oct 2026 06:00:00 GMT</pubDate><description>The OpenCode breach, OpenAI's rogue agents, DeepSeek 1017, a breakable C64 and a browser ESP32.</description></item>
+<item><title>No. 014: A 28-year-old crypto riddle falls to a timestamp.</title><link>https://thediff-news.github.io/issues/014/</link><pubDate>Sat, 17 Oct 2026 06:00:00 GMT</pubDate><description>The NIST seed bounty, Postgres 19 slipping on AI review, a Home Assistant opt-in fight, a 37-year-old OpenBSD bug and a $20 TPM bypass.</description></item>
+</channel></rss>
